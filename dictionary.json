@@ -19,13 +19,13 @@
     "category": "Japan",
     "language": "Japanese",
     "partOfSpeech": "Noun",
-    "sentence": "Captures how hard it is for our plans to come off well.",
+    "sentence": "Captures how hard it is for our plans to come off well. Into the work Frida Kahlo has written the lyric of a Mexican song: 'Look, if I loved you it was because of your hair. Now that you are without hair, I don't love you anymore.'",
     "color": "Teal",
     "link": "https://en.wikipedia.org/wiki/Japanese_language",
     "font": "Lato",
-    "image": "images/age_otori.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "image": "images/ageotori.jpg",
+    "imageCaption": "Frida Kahlo, Self-Portrait with Cropped Hair (1940)",
+    "imageSource": "http://www.moma.org/collection/works/78333?locale=en",
     "user": ""
   }, {
     "name": "Ataraxia",
@@ -38,8 +38,8 @@
     "link": "",
     "font": "Ubuntu",
     "image": "images/ataraxia.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "imageCaption": "The Death of Socrates, Jacques Louis David (1787)",
+    "imageSource": "http://www.metmuseum.org/art/collection/search/436105",
     "user": ""
   }, {
     "name": "Backpfeifengesicht",
@@ -60,14 +60,14 @@
     "definition": "The act of running one’s fingers, gently but deeply, through someone else’s hair.",
     "origin": "Brazil",
     "language": "Brazilian Portuguese",
-    "sentence": "tk",
+    "sentence": "The choreographer Léonide Massine asked the artist to design a new ballet based on Aleksandr Pushkin's 1824 poem 'The Gypsies'. An admirer of Pushkin, Chagall was eager to work on this Russian-themed ballet, which tells the story of Aleko, a young man who falls in love with the gypsy girl Zemphira, but eventually kills her.",
     "partOfSpeech": "Noun",
     "color": "Tomato",
     "link": "",
     "font": "Ubuntu",
     "image": "images/cafune.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "imageCaption": "Marc Chagall, Aleko and Zemphira by Moonlight. Study for backdrop for scene 1 of the ballet Aleko (1942)",
+    "imageSource": "http://www.moma.org/collection/works/85002?locale=en",
     "user": ""
   }, {
     "name": "Dapjeongneo",
@@ -80,8 +80,8 @@
     "link": "",
     "font": "Ubuntu",
     "image": "images/dapjeongneo.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "imageCaption": "Claude Monet, Camille Monet (1847–1879) on a Garden Bench (1873)",
+    "imageSource": "http://www.metmuseum.org/art/collection/search/438003",
     "user": ""
   }, {
     "name": "Eudaimonia",
@@ -94,8 +94,8 @@
     "link": "",
     "font": "Ubuntu",
     "image": "images/eudaimonia.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "imageCaption": "Paul Gauguin, Ia Orana Maria (Hail Mary) (1891)",
+    "imageSource": "http://www.metmuseum.org/art/collection/search/438821",
     "user": ""
   }, {
     "name": "Fika",
@@ -108,8 +108,8 @@
     "link": "",
     "font": "Ubuntu",
     "image": "images/fika.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "imageCaption": "Ralph Steiner, Eight O'Clock Coffee (1935)",
+    "imageSource": "http://www.moma.org/collection/works/55772?locale=en",
     "user": ""
   }, {
     "name": "Forelsket",
@@ -122,8 +122,8 @@
     "link": "",
     "font": "Ubuntu",
     "image": "images/forelsket.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "imageCaption": "Pierre-Auguste Cot, Springtime (1873)",
+    "imageSource": "http://www.metmuseum.org/art/collection/search/438158",
     "user": ""
   }, {
     "name": "Frotteur",
@@ -164,22 +164,22 @@
     "link": "",
     "font": "Ubuntu",
     "image": "images/gottka.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "imageCaption": "Karel Appel 'Child with Birds' (1950)",
+    "imageSource": "http://www.moma.org/collection/works/79756?locale=en",
     "user": ""
   }, {
     "name": "Hiraeth",
     "definition": "The longing to go back to a place that has been so changed in our memory that it cannot really be said to exist outside our imaginations.",
     "origin": "Wales",
     "language": "Welsh",
-    "sentence": "A coded warning not to call up the ex or revisit the childhood hotel.",
+    "sentence": "A coded warning against escaping into nostalgia and fairy tales.",
     "partOfSpeech": "Noun",
     "color": "Tomato",
     "link": "",
     "font": "Ubuntu",
     "image": "images/hiraeth.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "imageCaption": "Marc Chagall, I and the Village (1911)",
+    "imageSource": "http://www.moma.org/collection/works/78984?locale=en",
     "user": ""
   }, {
     "name": "Hüzün",
@@ -192,8 +192,8 @@
     "link": "",
     "font": "Ubuntu",
     "image": "images/huzun.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "imageCaption": "Paul Klee, Demon above the Ships (Dämon über den Schiffen) 1916",
+    "imageSource": "http://www.moma.org/collection/works/34207?locale=en",
     "user": ""
   }, {
     "name": "Iktsuarpok",
@@ -220,8 +220,8 @@
     "link": "",
     "font": "Ubuntu",
     "image": "images/jayus.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "imageCaption": "George Maciunas, Smile Machine (1971)",
+    "imageSource": "http://www.moma.org/collection/works/127927?locale=en",
     "user": ""
   }, {
     "name": "L’esprit d’escalier",
@@ -234,8 +234,22 @@
     "link": "",
     "font": "Ubuntu",
     "image": "images/lespritdescalier.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "imageCaption": "Jean Dubuffet, Stairs III (1966)",
+    "imageSource": "http://www.moma.org/collection/works/38581?locale=en",
+    "user": ""
+  }, {
+    "name": "L’esprit d’escalier 2",
+    "definition": "The witty or cutting retort that we should have delivered to a frenemy but that comes to mind only after we’ve left the gathering and are on our way down the stairs.",
+    "origin": "France",
+    "language": "French",
+    "partOfSpeech": "Noun",
+    "sentence": "Captures our maddening inability to know how to answer humiliation in real time.",
+    "color": "Tomato",
+    "link": "",
+    "font": "Ubuntu",
+    "image": "images/lespritdescalier2.jpg",
+    "imageCaption": "Jasper Johns, The Critic Smiles (1966)",
+    "imageSource": "http://www.moma.org/collection/works/66064?locale=en",
     "user": ""
   }, {
     "name": "Litost",
@@ -346,8 +360,8 @@
     "link": "",
     "font": "Ubuntu",
     "image": "images/saudade.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "imageCaption": "Henri Matisse, Study for 'Luxe, calme et volupté'' (1904)",
+    "imageSource": "http://www.moma.org/collection/works/80016?locale=en",
     "user": ""
   }, {
     "name": "Schadenfreude",
@@ -416,8 +430,8 @@
     "link": "",
     "font": "Ubuntu",
     "image": "images/vademecum.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "imageCaption": "Bronzino, Portrait of a Young Man (1530s)",
+    "imageSource": "http://www.metmuseum.org/art/collection/search/435802",
     "user": ""
   }, {
     "name": "Verschlimmbessern",
@@ -444,8 +458,8 @@
     "link": "",
     "font": "Ubuntu",
     "image": "images/wabisabi.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "imageCaption": "Black Seto Teabowl, known as “Iron Mallet” (Tettsui) (late 16th century)",
+    "imageSource": "http://www.metmuseum.org/art/collection/search/53001",
     "user": ""
   }, {
     "name": "Ya’aburnee",
@@ -472,8 +486,8 @@
     "link": "",
     "font": "Ubuntu",
     "image": "images/yugen.jpg",
-    "imageCaption": "",
-    "imageSource": "",
+    "imageCaption": "Georgia O'Keeffe, Evening Star, No. III (1917)",
+    "imageSource": "http://www.moma.org/collection/works/33828?locale=en",
     "user": ""
   } ]
 }

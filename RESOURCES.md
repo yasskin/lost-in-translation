@@ -20,7 +20,6 @@ Images Royalty Free http://thestocks.im/
 
 Prisma App - turns photos into art http://prisma-ai.com/
 
-
 age-otori - bad haircut
 Ataraxia - stoic calm
 Backpfeifengesicht - face in need of a fist
